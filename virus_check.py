@@ -10,7 +10,7 @@
 #       20/03/2020      bocs         Support CrushFTP encryption
 #       08/04/2020      bocs         Read the logfile continuously, check all files, run as daemon
 #       12/04/2021      bocs         Get the full path from the log, check file moves, remove email sending, set max_filesize to large
-#       11/08/2022	    bocs		     Get the paths from a listfile, can run in parallel in n threads
+#       11/08/2022      bocs		 Get the paths from a listfile, can run in parallel in n threads
 
 import sys, json, os, subprocess, difflib
 import xml.etree.ElementTree as ET
