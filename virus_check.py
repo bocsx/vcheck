@@ -1,6 +1,6 @@
 #!/usr/bin/python3 -u
 #
-#  Viruscheck the files collected in a listfile.
+#  Viruscheck the files added to the end of a listfile.
 #
 # Usage example: ./virus_check.py /opt/data/vcheck_shared/vcheck_filelist.all 3
 #
